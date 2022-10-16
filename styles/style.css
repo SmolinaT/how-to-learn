@@ -117,7 +117,7 @@
 }
 
 .two-columns__paragraph {
-  margin: 30px 0 ;
+  margin: 30px 0;
   line-height: 34px;
   font-size: 24px;
   font-weight: normal;
@@ -132,7 +132,6 @@
 }
 
 .two-columns__span-accent {
-  font-weight: bold;
   line-height: 34px;
   font-size: 24px;
   font-weight: 600;
