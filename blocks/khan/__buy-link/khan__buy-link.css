@@ -6,9 +6,10 @@
     color: #2f80ed;
     text-decoration: none;
     opacity: 1;
+    align-self: flex-start;
+    transition: opacity 1s linear 0.5s;
   }
   
   .khan__buy-link:hover {
     opacity: 0.5;
-    transition: opacity 1s linear 0.5s;
   }
